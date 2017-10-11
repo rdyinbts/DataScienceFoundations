@@ -105,5 +105,5 @@ ENV/
 *.pptx
 
 #pdffiles
-.pdf
+*.pdf
 
