@@ -104,6 +104,8 @@ ENV/
 # all pptx
 *.pptx
 
-#pdffiles
+# pdffiles
 *.pdf
 
+# all docs
+*.docx
